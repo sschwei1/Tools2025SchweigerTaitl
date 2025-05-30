@@ -9,4 +9,8 @@ class Main {
     }
 }
 
-static public void thisIsANewMehtod(){}
+static public void thisIsANewMehtod(){
+  int EineZahl = 420;
+  EineZahl *= 100
+  EineZahl += 69
+}
