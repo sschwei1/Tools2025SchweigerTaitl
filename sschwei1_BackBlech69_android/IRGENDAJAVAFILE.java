@@ -9,4 +9,11 @@ class Main {
     }
 }
 
-static public void thisIsANewMehtod(){}
+static public void thisIsANewMehtod(){
+    int x = 0;
+
+    while(x < 6969) {
+        System.out.println("Still less than 6969");
+        x++;
+    }
+}
