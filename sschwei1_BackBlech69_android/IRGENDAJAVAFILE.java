@@ -16,4 +16,8 @@ static public void thisIsANewMehtod(){
         System.out.println("Still less than 6969");
         x++;
     }
+
+    int EineZahl = 420;
+    EineZahl *= 100
+    EineZahl += 69
 }
