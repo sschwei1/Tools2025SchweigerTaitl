@@ -30,6 +30,7 @@ class IRGENDAJAVAFILE {
         Random random = new Random(441287210);
         for (int i = 0; i < 10; i++)
             System.out.print(random.nextInt(10) + " ");
+        System.out.println("i don't know what the above code does")    
     }
 }
 
