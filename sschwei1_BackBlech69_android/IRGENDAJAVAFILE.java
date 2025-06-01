@@ -32,6 +32,12 @@ class IRGENDAJAVAFILE {
             System.out.print(random.nextInt(10) + " ");
         System.out.println("i don't know what the above code does")    
     }
+
+    public static void hello() {
+        System.out.println("hello");
+        System.out.println("world");
+        System.out.println("!");
+    }
 }
 
 
