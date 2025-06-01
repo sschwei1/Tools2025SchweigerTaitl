@@ -29,6 +29,9 @@ class IRGENDAJAVAFILE {
         for (int i = 0; i < 10; i++)
             System.out.print(random.nextInt(10) + " ");
     }
+
+    public static void hello() {
+    }
 }
 
 
