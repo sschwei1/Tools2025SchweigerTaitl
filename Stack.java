@@ -7,6 +7,10 @@ public class Stack {
     private int elements;
     private int size;
 
+    public void dog() {
+        System.out.println("Who let the dogs out")
+    }
+
     /** Initializes the stack instance */
     public void initStack() {
         this.initStack(10);
