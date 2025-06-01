@@ -21,6 +21,7 @@ class IRGENDAJAVAFILE {
         int EineZahl = 420;
         EineZahl *= 187;
         EineZahl += 69;
+        System.out.println("NICE")
     }
 
 
